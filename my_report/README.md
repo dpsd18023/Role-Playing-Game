@@ -1,8 +1,8 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Γεώργιος Γλέζος
+### University Registration Number: dpsd18023
+### GitHub Personal Profile: https://github.com/dpsd18023
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
