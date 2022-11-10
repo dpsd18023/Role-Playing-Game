@@ -26,9 +26,10 @@
 ![Tilemaps](https://user-images.githubusercontent.com/115796095/201095426-3dccd40a-dfb4-4a4f-bcdc-926c98f73cc5.png)
 ![Scene1](https://user-images.githubusercontent.com/115796095/201098329-9ec43f81-803f-4f17-860a-a579f9801a6f.png)
 
-Και τέλος, έκανα "build" το παιχνίδι στην πλατφόρμα WebGL και το ανέβασα το στο προσωπικό μου repository ώστε να τρέχει απευθείας στο [Github Page](https://github.com/dpsd18023/Role-Playing-Game) μου. 
+Τέλος, έκανα "build" το παιχνίδι στην πλατφόρμα WebGL και το ανέβασα το στο προσωπικό μου repository ώστε να τρέχει απευθείας στο [Github Page](https://github.com/dpsd18023/Role-Playing-Game) μου. 
 
 ![atWebGl](https://user-images.githubusercontent.com/115796095/201100069-abfc9d08-391d-4f48-8367-8df3df7eabc5.png)
+![Scene1](https://user-images.githubusercontent.com/115796095/201100378-c953d39f-7c61-4afa-94af-0f34a92787f0.png)
 
 Μπορείτε να ανοίξετε απευθείας το παιχνίδι μου κάνοντας κλικ [εδώ](https://dpsd18023.github.io/Role-Playing-Game/)!
 
