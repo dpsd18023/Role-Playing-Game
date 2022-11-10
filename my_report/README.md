@@ -20,7 +20,7 @@
 
 ![Astronauft](https://user-images.githubusercontent.com/115796095/201093736-6660ebf1-5172-4a40-b248-2424b596d12c.png)
 
-Για τη συνέχεια έφτιαξα τον κόσμο μου από Tilesets με την βοήθεια του παρακάτω [βίντεο](https://www.youtube.com/watch?v=QkbGr1rAya8).
+Για τη συνέχεια έφτιαξα τον κόσμο μου από Tilesets με την βοήθεια του παρακάτω [βίντεο](https://www.youtube.com/watch?v=QkbGr1rAya8) και πρόσθεσα “αντικείμενα”  που κατέβασα από [εδώ](https://itch.io/) για να τον διακοσμήσω.
 
 ![Tilemaps](https://user-images.githubusercontent.com/115796095/201095426-3dccd40a-dfb4-4a4f-bcdc-926c98f73cc5.png)
 
